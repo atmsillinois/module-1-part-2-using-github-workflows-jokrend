@@ -1,3 +1,8 @@
+"""This code takes a user input in degrees Fahrenheit and converts it into
+degrees Celcius
+"""
+
+
 def main():
     print('Please enter a number in degrees Fahrenheit')
     user_input = input()
